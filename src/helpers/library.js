@@ -29,13 +29,13 @@ import amerp from "../images/amerp.png";
 
 export const movies = [
   {
-    Movie: "https://ipfs.moralis.io:2053/ipfs/QmeHKJGj9dnisftHZgWVrp63LN5qncspT2hRgsKMZngwAn/media/0",
+    Movie: "https://kroniclabz.mypinata.cloud/ipfs/QmTzVFvk3CfYyxWtPHJCZhLtxGdp9S2YBL5mfiiK9pY2up",
     Thumnbnail: tita,
     Scene: titanicS,
     Logo: movieLogo,
     Name: "Titanic",
     Description:
-      "Staring Kate Winslet and Leonardo DiCaprio. The two play characters who are of different social classes. They fall in love after meeting aboard the ship, but it was not good for a rich girl to fall in love with a poor boy in 1912.",
+      "Staring Kate Winslet and Leonardo DiCaprio. Boy meets girl. Boy falls in love with girl. Ship hits an assberg, water rushes in, ship sinks. Boy died cause girl wouldnt move her ass over and share the door.",
     Genre: "Romance, Drama",
     Actors: "Kate Winslet, Leonardo DiCaprio",
     Year: "1998",
